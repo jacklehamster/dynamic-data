@@ -6,6 +6,7 @@ This remaster improves on the original World of Turtle with new features.
 
 - Zoom and screen rotation
 - Gamepad support
+- AZERTY and QWERTY/Z keyboars support.
 - New music for each stage
 - Jukebox
 - Activation key generators to unlock full version in browser
@@ -13,3 +14,4 @@ This remaster improves on the original World of Turtle with new features.
 - Full screen support in graphics options
 - Graphics options
 - Changing perspective
+- Language support: French, Korea, English.
