@@ -1,6 +1,4 @@
-World of Turtle Remaster
-
-This remaster improves on the original World of Turtle with new features.
+World of Turtle remaster improves on the original World of Turtle with new features.
 
 1.0.1
 
