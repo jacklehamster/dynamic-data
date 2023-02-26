@@ -12,6 +12,6 @@ To share your own art, do the following:
 - Push your change in your own repo.
 - Submit a merge request into the [jacklehamster/dynamic-data repo](https://github.com/jacklehamster/dynamic-data).
 
-We will review your fan art and merge if we find it appropriate. If not, we'll comment on the pull request to let you know if there's any change needed.
+We will review your fan art and merge if we find it appropriate. If not, we'll comment on the pull request to let you know what changes are needed.
 
 *Note: If you need help for any of this, feel free to contact me directly at: jacklehamster@gmail.com*
