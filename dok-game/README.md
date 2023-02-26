@@ -2,8 +2,9 @@
 
 Do you have awesome World of Turtle fan art to submit?
 You have a chance to showcase your own artwork within World of Turtle.
-During the game's loading screen, and within the fan art gallery in the menu, we display art made by fans.
-To share your art, do the following:
+During the game's loading screen and within the fan art gallery in the menu, we display artworks made by fans.
+
+To share your own art, do the following:
 - Clone [this repo](https://github.com/jacklehamster/dynamic-data).
 - Upload your image, preferably < 200kb jpg, in the ["dok-game/loading" folder](https://github.com/jacklehamster/dynamic-data/tree/main/dok-game/loading).
 - Make sure to title your file the way you'd like the label to be displayed. Ex: "MyBeautifulArtwork_by_AuthorName.jpg".
