@@ -30,5 +30,19 @@
         }
       ]
     }
+  },
+  {
+    "label": "1.0.3",
+    "submenu": {
+      "textContent": {
+        "reference": "release-notes-1.0.3.md"
+      },
+      "items": [
+        {
+          "label": "$Back",
+          "back": true
+        }
+      ]
+    }
   }
 ]
